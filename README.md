@@ -1,4 +1,4 @@
-# HackTheBox — Bike (Starting Point)
+# HackTheBox — Bike 
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen)
 ![OS](https://img.shields.io/badge/OS-Linux-blue)
@@ -15,7 +15,7 @@ Execution (RCE)** as the `root` user.
 |-------|-------|
 | Platform | HackTheBox — Starting Point |
 | OS | Linux |
-| Difficulty | Very Easy |
+| Difficulty | 
 | Key Vulnerability | SSTI (Handlebars) → RCE |
 | OWASP Category | A03:2021 – Injection |
 
