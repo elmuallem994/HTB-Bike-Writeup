@@ -1,6 +1,5 @@
 # HackTheBox — Bike 
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen)
 ![OS](https://img.shields.io/badge/OS-Linux-blue)
 ![Skill](https://img.shields.io/badge/Skill-SSTI%20%7C%20RCE-red)
 
