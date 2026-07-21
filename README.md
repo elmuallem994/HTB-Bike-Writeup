@@ -75,7 +75,7 @@ The parse error confirmed that user input reached the template engine —
 a strong indicator of **SSTI**.
 
 ---
-![Handlebars parse error revealing the template engine](./images/ssti-error-handlebars.png)
+![Handlebars parse error](./ssti-error-handlebars.png)
 
 ## 3. Exploitation (SSTI → RCE)
 
@@ -136,9 +136,9 @@ flag was read:
 cat /root/flag.txt
 
 ---
-![URL-encoding the payload in Burp Decoder](./images/payload-url-encoding.png)
+![URL-encoding the payload in Burp Decoder](./payload-url-encoding.png)
 
-![Sending the exploit and receiving RCE output via Repeater](./images/exploitation-repeater.png)
+![Sending the exploit and receiving RCE output via Repeater](./exploitation-repeater.png)
 
 ## 4. Impact
 
